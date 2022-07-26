@@ -1,4 +1,6 @@
 # Into-the-Wild
+![SCUITW+LOGO](https://user-images.githubusercontent.com/81653555/181063623-010aa138-3705-4ca9-b73f-bc13cce00634.jpg)
+
 Data entry, preprocessing, visualization, analysis, and model building for Santa Clara University's student run outdoors organization, Into the Wild. In this project, using data that I collected and entered, I create visualizations and utilize other techniques to analyze our organization's trip sales for both day hikes and overnight camping trips during the past school year. The questions I explore in this project include but are not limited to the following:
 
 1. What are the most important factors that affect trip sign ups?
