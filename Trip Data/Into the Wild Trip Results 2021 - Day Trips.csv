@@ -1,0 +1,34 @@
+Year,Trip Name,Trip Type,Skill Level,Terrain Type,Region,County,Swimming?,Application?,Price,Quarter,Week in the quarter,Long Weekend,Number of ITW trips,More than one day hike?,Day of week,Distance (miles),Tickets Sold,Tickets Available,Empty Spots,Filled?
+2021,Mission Peak,Hike,Intermediate,Mountain,Diablo Range,Alameda,0,0,0,Fall,1,0,2,0,Saturday,13,17,17,0,1
+2021,Panther Beach,Beach,Beginner,Beach,Davenport,Santa Cruz,1,0,5,Fall,2,0,2,0,Saturday,39,19,19,0,1
+2021,Mt. Umunhum,Hike,Intermediate,Mountain,Santa Cruz Mountains,Santa Cruz,0,0,5,Fall,4,0,2,0,Sunday,23,12,12,0,1
+2021,Pinnacles,Hike,Beginner,Desert,Pinnacles,San Benito,0,0,10,Fall,5,0,2,0,Saturday,80,12,12,0,1
+2021,Alum Rock,Hike,Beginner,Mountain,Diablo Range,Santa Clara,0,0,5,Fall,6,0,2,0,Saturday,8,13,13,0,1
+2021,Maple Falls,Hike,Intermediate,Mountain,Santa Cruz Mountains,Santa Cruz,0,0,5,Fall,7,0,2,0,Saturday,41,10,10,0,1
+2021,Montara Mountain,Hike,Intermediate,Coast,Pacifica,San Mateo,0,0,5,Fall,8,0,2,0,Sunday,49,13,13,0,1
+2021,Saratoga,Hike,Beginner,Mountain,Santa Cruz Mountains,Santa Clara,0,0,0,Fall,10,0,1,0,Saturday,14,18,18,0,1
+2022,Half Moon Bay,Hike,Intermediate,Coast,Half Moon Bay,San Mateo,0,0,10,Winter,1,0,2,0,Sunday,39,13,13,0,1
+2022,Gray Whale Cove,Hike,Beginner,Coast,Pacifica,San Mateo,0,0,5,Winter,2,1,2,0,Saturday,50,12,12,0,1
+2022,Castle Rock,Hike,Beginner,Mountain,Santa Cruz Mountains,Santa Cruz,0,0,3,Winter,4,0,3,1,Friday,21,8,10,2,0
+2022,Maple Falls,Hike,Intermediate,Mountain,Santa Cruz Mountains,Santa Cruz,0,0,5,Winter,4,0,3,1,Saturday,41,14,14,0,1
+2022,Stevens Canyon,Hike,Intermediate,Mountain,Santa Cruz Mountains,Santa Clara,0,0,8,Winter,4,0,3,1,Sunday,14,10,10,0,1
+2022,Gray Whale Cove,Hike,Intermediate,Coast,Pacifica,San Mateo,0,0,7,Winter,5,0,3,1,Saturday,50,12,12,0,1
+2022,Shark Fin Cove Painting,Beach,Beginner,Beach,Davenport,Santa Cruz,0,0,8,Winter,5,0,3,1,Monday,40,12,12,0,1
+2022,Devil's Slide,Hike,Beginner,Coast,Pacifica,San Mateo,0,0,5,Winter,6,0,4,1,Saturday,49,11,11,0,1
+2022,Goat Yoga - Half Moon Bay,Yoga,Beginner,Coast,Half Moon Bay,San Mateo,0,0,0,Winter,6,0,4,1,Saturday,37,15,15,0,1
+2022,Tomales Point,Hike,Intermediate,Coast,Marin,Marin,0,0,22,Winter,7,1,2,0,Saturday,103,4,11,7,0
+2022,Greyhound Rock Friendship Bracelets,Beach,Beginner,Beach,Davenport,Santa Cruz,0,0,5,Winter,8,0,2,0,Saturday,47,12,14,2,0
+2022,Marin Headlands,Hike,Intermediate,Coast,Marin,Marin,0,0,5,Winter,9,0,2,0,Saturday,60,8,11,3,0
+2022,Pajaro Sand Dunes,Beach,Beginner,Coast,Watsonville,Santa Cruz,1,0,6,Winter,10,0,1,0,Saturday,49,12,13,1,0
+2022,Half Moon Bay Redwoods,Hike,Intermediate,Redwood,Half Moon Bay,San Mateo,0,0,5,Spring,1,0,2,0,Saturday,38,7,7,0,1
+2022,Pleasure Point Surf ,Surf,Intermediate,Beach,Pleasure Point,Santa Cruz,1,1,15,Spring,3,1,2,0,Saturday,34,4,6,2,0
+2022,Lexington Reservoir Paddle Boarding,Paddle,Beginner,Mountain,Los Gatos,Santa Clara,1,1,12,Spring,4,0,5,1,Saturday,15,6,6,0,1
+2022,Half Moon Bay (TURN),Hike,Beginner,Coast,Half Moon Bay,San Mateo,0,0,9,Spring,4,0,5,1,Saturday,38,10,12,2,0
+2022,Ocean Beach (Surfrider),Beach,Beginner,Beach,San Francisco,San Francisco,0,0,0,Spring,4,0,5,1,Sunday,51,14,14,0,1
+2022,Henry Cowell,Hike,Beginner,Redwood,Santa Cruz Mountains,Santa Cruz,0,0,15,Spring,5,0,3,1,Sunday,30,8,9,1,0
+2022,Castle Rock,Hike,Beginner,Mountain,Santa Cruz Mountains,Santa Cruz,0,0,7,Spring,5,0,3,1,Friday,21,9,11,2,0
+2022,South Fork of the American River Rafting,Rafting,Beginner,River,American River,El Dorado,0,0,0,Spring,6,0,3,0,Saturday,160,8,8,0,1
+2022,Mission Peak Sunrise,Hike,Advanced,Mountain,Diablo Range,Alameda,0,0,5,Spring,7,0,3,0,Wednesday,13,4,10,6,0
+2022,Lands End,Hike,Beginner,Coast,San Francisco,San Francisco,0,0,9,Spring,8,0,2,0,Saturday,53,8,9,1,0
+2022,Montara Mountain,Hike,Intermediate,Coast,Pacifica,San Mateo,0,0,12,Spring,9,1,3,0,Monday,49,8,11,3,0
+2022,Baker Beach Sunset,Beach,Beginner,Beach,San Francisco,San Francisco,1,0,5,Spring,10,0,1,0,Friday,53,7,11,4,0

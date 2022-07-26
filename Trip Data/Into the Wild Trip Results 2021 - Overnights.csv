@@ -1,0 +1,27 @@
+Year,Trip Name,Trip Type,Skill Level,Terrain Type,Region,County,Swimming?,Application?,Price,Quarter,Week in the quarter,Long Weekend,Two overnights,Number of ITW trips,Number of Nights,Day Leave,Day Return,Distance (miles),New trip?,Tickets Sold,Trip,Tickets Available,Empty spots,Filled?
+2021,Sword Lake,Backpacking,Beginner,Mountain,Sierras,Tuolumne ,1,0,40,Fall,1,0,0,2,1,Saturday,Sunday,180,1,10,Sword Lake,10,0,1
+2021,Big Sur (Vicente),Backpacking,Intermediate,Coast,Central Coast,Monterey,0,0,40,Fall,2,0,0,2,1,Saturday,Sunday,131,0,13,Big Sur (Vicente),13,0,1
+2021,Emigrant Wilderness,Backpacking,Advanced,Mountain,Sierras,Tuolumne,0,0,50,Fall,4,0,0,2,1,Saturday,Sunday,164,0,8,Emigrant Wilderness,8,0,0
+2021,Redwoods/Manresa State Beach,Beach,Beginner,Beach,Local,Santa Cruz,1,0,32,Fall,5,0,0,2,1,Saturday,Sunday,41,0,11,Redwoods/Manresa State Beach,11,0,1
+2021,Big Sur (Salmon Creek),Backpacking,Beginner,Coast,Central Coast,Monterey,0,0,25,Fall,6,0,0,2,1,Saturday,Sunday,149,1,10,Big Sur (Salmon Creek),10,0,1
+2021,Pinnacles,Car Camping,Beginner,Desert,Local,San Benito,0,0,40,Fall,7,0,0,2,1,Friday,Saturday,82,0,11,Pinnacles,11,0,1
+2021,Big Sur (Cone Peak),Car Camping,Advanced,Coast,Central Coast,Monterey,0,1,45,Fall,8,0,0,2,1,Saturday,Sunday,152,0,5,Big Sur (Cone Peak),10,5,0
+2022,Yosemite Winter,Car Camping,Beginner,Mountain,Sierras,Mariposa,0,0,50,Winter,1,0,0,2,1,Saturday,Sunday,187,0,8,Yosemite Winter,8,0,1
+2022,Joshua Tree,Car Camping,Beginner,Desert,Southern California,San Bernadino,0,0,80,Winter,2,1,0,2,2,Saturday,Monday,474,0,9,Joshua Tree,9,0,1
+2022,Point Reyes (Wildcat),Backpacking,Intermediate,Coast,Marin,Marin,1,0,42,Winter,5,0,0,3,1,Saturday,Sunday,82,1,9,Point Reyes (Wildcat),10,1,0
+2022,Sunset State Beach,Beach,Beginner,Beach,Local,Santa Cruz,1,0,40,Winter,6,0,1,4,1,Saturday,Sunday,44,0,8,Sunset State Beach,9,1,0
+2022,Salt Point Overnight,Car Camping,Beginner,Coast,North,Sonoma,0,0,42,Winter,6,0,1,4,1,Friday,Saturday,139,1,1,Salt Point Overnight,10,9,0
+2022,Alabama Hills (really Point Reyes),Car Camping,Intermediate,Desert,East Sierras,Inyo,0,0,80,Winter,7,1,0,2,2,Saturday,Monday,416,1,3,Alabama Hills (really Point Reyes),12,9,0
+2022,Big Sur (Plaskett Creek),Car Camping,Beginner,Beach,Central Coast,Monterey,1,0,25,Winter,8,0,0,2,1,Saturday,Sunday,138,1,13,Big Sur (Plaskett Creek),13,0,1
+2022,Salt Point SP,Car Camping,Beginner,Coast,North,Sonoma,0,0,30,Winter,9,0,0,2,1,Saturday,Sunday,139,1,6,Salt Point SP,11,5,0
+2022,Sunset State Beach,Car Camping,Beginner,Beach,Local,Santa Cruz,1,0,20,Spring,1,0,0,2,1,Friday,Saturday,44,0,7,Sunset State Beach,9,2,0
+2022,Big Sur (Timber Top),Backpacking,Intermediate,Coast,Central Coast,Monterey,0,0,20,Spring,3,1,0,2,1,Friday,Saturday,114,1,12,Big Sur (Timber Top),12,0,1
+2022,Manresa State Beach,Beach,Beginner,Beach,Local,Santa Cruz,1,0,30,Spring,4,0,1,5,1,Friday,Saturday,41,0,13,Manresa State Beach,13,0,1
+2022,Big Sur (Vicente),Backpacking,Intermediate,Coast,Central Coast,Monterey,0,0,45,Spring,4,0,1,5,1,Saturday,Sunday,131,0,9,Big Sur (Vicente),9,0,1
+2022,Yosemite,Car Camping,Beginner,Mountain,Sierras,Mariposa,0,0,60,Spring,5,0,0,3,1,Saturday,Sunday,187,0,6,Yosemite,10,4,0
+2022,Big Sur (Timber Top),Backpacking,Intermediate,Coast,Central Coast,Monterey,0,0,35,Spring,6,0,0,3,1,Saturday,Sunday,114,0,8,Big Sur (Timber Top),9,1,0
+2022,Sword Lake,Backpacking,Beginner,Mountain,Sierras,Tuolumne,1,0,0,Spring,7,0,1,3,1,Saturday,Sunday,180,0,4,Sword Lake,11,7,0
+2022,Point Reyes (Wildcat),Backpacking,Intermediate,Coast,Marin,Marin,1,0,,Spring,7,0,1,3,1,Saturday,Sunday,82,0,4,Point Reyes (Wildcat),9,5,0
+2022,Yosemite (Hetch Hetchy),Backpacking,Advanced,Mountain,Sierras,Tuolumne,0,1,70,Spring,8,0,0,2,1,Saturday,Sunday,173,0,5,Yosemite (Hetch Hetchy),10,5,0
+2022,Castle Craggs and Mt. Shasta,Car Camping,Intermediate,Mountain,North,Shasta,1,0,80,Spring,9,1,1,3,2,Saturday,Monday,291,1,4,Castle Craggs and Mt. Shasta,13,9,0
+2022,Yosemite,Car Camping,Advanced,Mountain,Sierras,Mariposa,0,1,80,Spring,9,1,1,3,2,Saturday,Monday,187,0,8,Yosemite,10,2,0
