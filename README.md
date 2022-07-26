@@ -1,6 +1,6 @@
 # Into-the-Wild
 
-Data entry, preprocessing, visualization, analysis, and model building for Santa Clara University's student run outdoors organization, Into the Wild. In this project, using data that I collected and entered, I create visualizations and utilize other techniques to analyze our organization's trip sales for both day hikes and overnight camping trips during the past school year. The questions I explore in this project include but are not limited to the following:
+Data entry, cleaning, visualization, and analysis for Santa Clara University's student run outdoors organization, Into the Wild. In this project, using data that I collected and entered, I create visualizations and utilize other techniques to analyze our organization's trip sales for both day hikes and overnight camping trips during the past school year. The questions I explore in this project include but are not limited to the following:
 
 1. What are the most important factors that affect trip sign ups?
 2. Are Friday overnights more popular/likely to fill than Saturday overnights?
