@@ -1,0 +1,34 @@
+Year,Trip Name,Region,County,Swimming?,Application?,Price,Week in the quarter,Long Weekend,Number of ITW trips,More than one day hike?,Distance (miles),Tickets Sold,Tickets Available,Empty Spots,Filled?,PercentSold,Success,Beach_x,Hike,Paddle,Rafting,Surf,Yoga,Advanced,Beginner,Intermediate,Beach_y,Coast,Desert,Mountain,Redwood,River,Friday,Monday,Saturday,Sunday,Wednesday,Fall,Spring,Winter
+2021,Mission Peak,Diablo Range,Alameda,0,0,0,1,0,2,0,13,17,17,0,1,1.0,1,0,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,1,0,0
+2021,Panther Beach,Davenport,Santa Cruz,1,0,5,2,0,2,0,39,19,19,0,1,1.0,1,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0
+2021,Mt. Umunhum,Santa Cruz Mountains,Santa Cruz,0,0,5,4,0,2,0,23,12,12,0,1,1.0,1,0,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,1,0,0
+2021,Pinnacles,Pinnacles,San Benito,0,0,10,5,0,2,0,80,12,12,0,1,1.0,1,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,1,0,0
+2021,Alum Rock,Diablo Range,Santa Clara,0,0,5,6,0,2,0,8,13,13,0,1,1.0,1,0,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1,0,0,1,0,0
+2021,Maple Falls,Santa Cruz Mountains,Santa Cruz,0,0,5,7,0,2,0,41,10,10,0,1,1.0,1,0,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,1,0,0
+2021,Montara Mountain,Pacifica,San Mateo,0,0,5,8,0,2,0,49,13,13,0,1,1.0,1,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,1,0,0
+2021,Saratoga,Santa Cruz Mountains,Santa Clara,0,0,0,10,0,1,0,14,18,18,0,1,1.0,1,0,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1,0,0,1,0,0
+2022,Half Moon Bay,Half Moon Bay,San Mateo,0,0,10,1,0,2,0,39,13,13,0,1,1.0,1,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,1
+2022,Gray Whale Cove,Pacifica,San Mateo,0,0,5,2,1,2,0,50,12,12,0,1,1.0,1,0,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,1
+2022,Castle Rock,Santa Cruz Mountains,Santa Cruz,0,0,3,4,0,3,1,21,8,10,2,0,0.8,0,0,1,0,0,0,0,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1
+2022,Maple Falls,Santa Cruz Mountains,Santa Cruz,0,0,5,4,0,3,1,41,14,14,0,1,1.0,1,0,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,1
+2022,Stevens Canyon,Santa Cruz Mountains,Santa Clara,0,0,8,4,0,3,1,14,10,10,0,1,1.0,1,0,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,1
+2022,Gray Whale Cove,Pacifica,San Mateo,0,0,7,5,0,3,1,50,12,12,0,1,1.0,1,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,1
+2022,Shark Fin Cove Painting,Davenport,Santa Cruz,0,0,8,5,0,3,1,40,12,12,0,1,1.0,1,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,1
+2022,Devil's Slide,Pacifica,San Mateo,0,0,5,6,0,4,1,49,11,11,0,1,1.0,1,0,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,1
+2022,Goat Yoga - Half Moon Bay,Half Moon Bay,San Mateo,0,0,0,6,0,4,1,37,15,15,0,1,1.0,1,0,0,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,1
+2022,Tomales Point,Marin,Marin,0,0,22,7,1,2,0,103,4,11,7,0,0.36363636363636365,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,1
+2022,Greyhound Rock Friendship Bracelets,Davenport,Santa Cruz,0,0,5,8,0,2,0,47,12,14,2,0,0.8571428571428571,1,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,1
+2022,Marin Headlands,Marin,Marin,0,0,5,9,0,2,0,60,8,11,3,0,0.7272727272727273,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,1
+2022,Pajaro Sand Dunes,Watsonville,Santa Cruz,1,0,6,10,0,1,0,49,12,13,1,0,0.9230769230769231,1,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,1
+2022,Half Moon Bay Redwoods,Half Moon Bay,San Mateo,0,0,5,1,0,2,0,38,7,7,0,1,1.0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,1,0
+2022,Pleasure Point Surf ,Pleasure Point,Santa Cruz,1,1,15,3,1,2,0,34,4,6,2,0,0.6666666666666666,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,1,0
+2022,Lexington Reservoir Paddle Boarding,Los Gatos,Santa Clara,1,1,12,4,0,5,1,15,6,6,0,1,1.0,1,0,0,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0
+2022,Half Moon Bay (TURN),Half Moon Bay,San Mateo,0,0,9,4,0,5,1,38,10,12,2,0,0.8333333333333334,0,0,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0
+2022,Ocean Beach (Surfrider),San Francisco,San Francisco,0,0,0,4,0,5,1,51,14,14,0,1,1.0,1,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,1,0
+2022,Henry Cowell,Santa Cruz Mountains,Santa Cruz,0,0,15,5,0,3,1,30,8,9,1,0,0.8888888888888888,1,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,1,0,0,1,0
+2022,Castle Rock,Santa Cruz Mountains,Santa Cruz,0,0,7,5,0,3,1,21,9,11,2,0,0.8181818181818182,0,0,1,0,0,0,0,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0
+2022,South Fork of the American River Rafting,American River,El Dorado,0,0,0,6,0,3,0,160,8,8,0,1,1.0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0
+2022,Mission Peak Sunrise,Diablo Range,Alameda,0,0,5,7,0,3,0,13,4,10,6,0,0.4,0,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0
+2022,Lands End,San Francisco,San Francisco,0,0,9,8,0,2,0,53,8,9,1,0,0.8888888888888888,1,0,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0
+2022,Montara Mountain,Pacifica,San Mateo,0,0,12,9,1,3,0,49,8,11,3,0,0.7272727272727273,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,1,0,0,0,0,1,0
+2022,Baker Beach Sunset,San Francisco,San Francisco,1,0,5,10,0,1,0,53,7,11,4,0,0.6363636363636364,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0

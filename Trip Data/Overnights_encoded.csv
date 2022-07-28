@@ -1,0 +1,27 @@
+Year,Trip Name,Region,County,Swimming?,Application?,Price,Quarter,Week in the quarter,Long Weekend,Two overnights,Number of ITW trips,Number of Nights,Day Return,Distance (miles),New trip?,Tickets Sold,Trip,Tickets Available,Empty spots,Filled?,PercentSold,Success,Backpacking,Beach_x,Car Camping,Advanced,Beginner,Intermediate,Beach_y,Coast,Desert,Mountain,Friday,Saturday,Fall,Spring,Winter
+2021,Sword Lake,Sierras,Tuolumne ,1,0,40.0,Fall,1,0,0,2,1,Sunday,180,1,10,Sword Lake,10,0,1,1.0,1,1,0,0,0,1,0,0,0,0,1,0,1,1,0,0
+2021,Big Sur (Vicente),Central Coast,Monterey,0,0,40.0,Fall,2,0,0,2,1,Sunday,131,0,13,Big Sur (Vicente),13,0,1,1.0,1,1,0,0,0,0,1,0,1,0,0,0,1,1,0,0
+2021,Emigrant Wilderness,Sierras,Tuolumne,0,0,50.0,Fall,4,0,0,2,1,Sunday,164,0,8,Emigrant Wilderness,8,0,0,1.0,1,1,0,0,1,0,0,0,0,0,1,0,1,1,0,0
+2021,Redwoods/Manresa State Beach,Local,Santa Cruz,1,0,32.0,Fall,5,0,0,2,1,Sunday,41,0,11,Redwoods/Manresa State Beach,11,0,1,1.0,1,0,1,0,0,1,0,1,0,0,0,0,1,1,0,0
+2021,Big Sur (Salmon Creek),Central Coast,Monterey,0,0,25.0,Fall,6,0,0,2,1,Sunday,149,1,10,Big Sur (Salmon Creek),10,0,1,1.0,1,1,0,0,0,1,0,0,1,0,0,0,1,1,0,0
+2021,Pinnacles,Local,San Benito,0,0,40.0,Fall,7,0,0,2,1,Saturday,82,0,11,Pinnacles,11,0,1,1.0,1,0,0,1,0,1,0,0,0,1,0,1,0,1,0,0
+2021,Big Sur (Cone Peak),Central Coast,Monterey,0,1,45.0,Fall,8,0,0,2,1,Sunday,152,0,5,Big Sur (Cone Peak),10,5,0,0.5,0,0,0,1,1,0,0,0,1,0,0,0,1,1,0,0
+2022,Yosemite Winter,Sierras,Mariposa,0,0,50.0,Winter,1,0,0,2,1,Sunday,187,0,8,Yosemite Winter,8,0,1,1.0,1,0,0,1,0,1,0,0,0,0,1,0,1,0,0,1
+2022,Joshua Tree,Southern California,San Bernadino,0,0,80.0,Winter,2,1,0,2,2,Monday,474,0,9,Joshua Tree,9,0,1,1.0,1,0,0,1,0,1,0,0,0,1,0,0,1,0,0,1
+2022,Point Reyes (Wildcat),Marin,Marin,1,0,42.0,Winter,5,0,0,3,1,Sunday,82,1,9,Point Reyes (Wildcat),10,1,0,0.9,1,1,0,0,0,0,1,0,1,0,0,0,1,0,0,1
+2022,Sunset State Beach,Local,Santa Cruz,1,0,40.0,Winter,6,0,1,4,1,Sunday,44,0,8,Sunset State Beach,9,1,0,0.8888888888888888,1,0,1,0,0,1,0,1,0,0,0,0,1,0,0,1
+2022,Salt Point Overnight,North,Sonoma,0,0,42.0,Winter,6,0,1,4,1,Saturday,139,1,1,Salt Point Overnight,10,9,0,0.1,0,0,0,1,0,1,0,0,1,0,0,1,0,0,0,1
+2022,Alabama Hills (really Point Reyes),East Sierras,Inyo,0,0,80.0,Winter,7,1,0,2,2,Monday,416,1,3,Alabama Hills (really Point Reyes),12,9,0,0.25,0,0,0,1,0,0,1,0,0,1,0,0,1,0,0,1
+2022,Big Sur (Plaskett Creek),Central Coast,Monterey,1,0,25.0,Winter,8,0,0,2,1,Sunday,138,1,13,Big Sur (Plaskett Creek),13,0,1,1.0,1,0,0,1,0,1,0,1,0,0,0,0,1,0,0,1
+2022,Salt Point SP,North,Sonoma,0,0,30.0,Winter,9,0,0,2,1,Sunday,139,1,6,Salt Point SP,11,5,0,0.5454545454545454,0,0,0,1,0,1,0,0,1,0,0,0,1,0,0,1
+2022,Sunset State Beach,Local,Santa Cruz,1,0,20.0,Spring,1,0,0,2,1,Saturday,44,0,7,Sunset State Beach,9,2,0,0.7777777777777778,0,0,0,1,0,1,0,1,0,0,0,1,0,0,1,0
+2022,Big Sur (Timber Top),Central Coast,Monterey,0,0,20.0,Spring,3,1,0,2,1,Saturday,114,1,12,Big Sur (Timber Top),12,0,1,1.0,1,1,0,0,0,0,1,0,1,0,0,1,0,0,1,0
+2022,Manresa State Beach,Local,Santa Cruz,1,0,30.0,Spring,4,0,1,5,1,Saturday,41,0,13,Manresa State Beach,13,0,1,1.0,1,0,1,0,0,1,0,1,0,0,0,1,0,0,1,0
+2022,Big Sur (Vicente),Central Coast,Monterey,0,0,45.0,Spring,4,0,1,5,1,Sunday,131,0,9,Big Sur (Vicente),9,0,1,1.0,1,1,0,0,0,0,1,0,1,0,0,0,1,0,1,0
+2022,Yosemite,Sierras,Mariposa,0,0,60.0,Spring,5,0,0,3,1,Sunday,187,0,6,Yosemite,10,4,0,0.6,0,0,0,1,0,1,0,0,0,0,1,0,1,0,1,0
+2022,Big Sur (Timber Top),Central Coast,Monterey,0,0,35.0,Spring,6,0,0,3,1,Sunday,114,0,8,Big Sur (Timber Top),9,1,0,0.8888888888888888,1,1,0,0,0,0,1,0,1,0,0,0,1,0,1,0
+2022,Sword Lake,Sierras,Tuolumne,1,0,0.0,Spring,7,0,1,3,1,Sunday,180,0,4,Sword Lake,11,7,0,0.36363636363636365,0,1,0,0,0,1,0,0,0,0,1,0,1,0,1,0
+2022,Point Reyes (Wildcat),Marin,Marin,1,0,47.0,Spring,7,0,1,3,1,Sunday,82,0,4,Point Reyes (Wildcat),9,5,0,0.4444444444444444,0,1,0,0,0,0,1,0,1,0,0,0,1,0,1,0
+2022,Yosemite (Hetch Hetchy),Sierras,Tuolumne,0,1,70.0,Spring,8,0,0,2,1,Sunday,173,0,5,Yosemite (Hetch Hetchy),10,5,0,0.5,0,1,0,0,1,0,0,0,0,0,1,0,1,0,1,0
+2022,Castle Craggs and Mt. Shasta,North,Shasta,1,0,80.0,Spring,9,1,1,3,2,Monday,291,1,4,Castle Craggs and Mt. Shasta,13,9,0,0.3076923076923077,0,0,0,1,0,0,1,0,0,0,1,0,1,0,1,0
+2022,Yosemite,Sierras,Mariposa,0,1,80.0,Spring,9,1,1,3,2,Monday,187,0,8,Yosemite,10,2,0,0.8,0,0,0,1,1,0,0,0,0,0,1,0,1,0,1,0
